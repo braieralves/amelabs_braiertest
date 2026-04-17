@@ -14,9 +14,8 @@ A comprehensive Azure monitoring lab environment built with Terraform and automa
 4. Run this single command:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/microsoft/amelabs/refs/heads/main/azmon-lab-agents-essentials/init-lab.sh)
+bash <(curl -s https://raw.githubusercontent.com/braieralves/amelabs_braiertest/refs/heads/main/azmon-lab-agents-essentials/init-lab.sh)
 ```
-
 ### What You Get
 
 This lab creates a comprehensive Azure monitoring environment:
